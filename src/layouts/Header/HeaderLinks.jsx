@@ -41,7 +41,7 @@ class HeaderLinks extends React.Component {
                 <div className={classes.right}>
                     <Button aria-label="Person" className={classes.buttonWhite}>
                         <Person className={classes.icons}/>
-                        <p className={classes.linkText}>{LoginUser.displayName}</p>
+
                     </Button>
                 </div>
             </div>
